@@ -1,5 +1,5 @@
 # study-scheduler
 
 ## Overview
-Study planning app
+Study planning app acc
 
