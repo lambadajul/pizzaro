@@ -1,0 +1,6 @@
+{
+  "autosave": true,
+  "default_session_minutes": 60,
+  "default_priority": "Medium",
+  "export_format": "json"
+}
